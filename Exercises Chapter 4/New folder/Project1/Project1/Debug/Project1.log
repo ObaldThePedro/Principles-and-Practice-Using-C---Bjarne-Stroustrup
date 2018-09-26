@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\new folder\project1\project1\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\new folder\project1\project1\source.cpp(15): warning C4715: 'number_generator': not all control paths return a value
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\new folder\project1\project1\source.cpp(45): warning C4715: 'isValidAnswer': not all control paths return a value
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\new folder\project1\project1\source.cpp(83): warning C4715: 'isGameWon': not all control paths return a value
+  Project1.vcxproj -> C:\Users\pedro\Desktop\Principles and Practice Using C++ - Bjarne Stroustrup\Exercises_Chapter4\New folder\Project1\Debug\Project1.exe

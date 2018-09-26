@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\sieve of eratosthenes\sieve of eratosthenes\source.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sieve of Eratosthenes.vcxproj -> C:\Users\pedro\Desktop\Principles and Practice Using C++ - Bjarne Stroustrup\Exercises_Chapter4\Sieve of Eratosthenes\Debug\Sieve of Eratosthenes.exe

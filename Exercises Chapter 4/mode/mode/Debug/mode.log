@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\mode\mode\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises_chapter4\mode\mode\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  mode.vcxproj -> C:\Users\pedro\Desktop\Principles and Practice Using C++ - Bjarne Stroustrup\Exercises_Chapter4\mode\Debug\mode.exe

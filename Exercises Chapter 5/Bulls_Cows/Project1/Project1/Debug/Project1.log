@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises chapter 5\bulls_cows\project1\project1\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\pedro\desktop\principles and practice using c++ - bjarne stroustrup\exercises chapter 5\bulls_cows\project1\project1\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\pedro\Desktop\Principles and Practice Using C++ - Bjarne Stroustrup\Exercises Chapter 5\Bulls_Cows\Project1\Debug\Project1.exe

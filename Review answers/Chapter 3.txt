@@ -1,0 +1,82 @@
+1/2. What is meant by the term prompt and which operator do you use to read into a variable?
+	It means getting asking the user for input using cin command operator.
+
+3.If you want the user to input an integer value into your program for a variable named number, what are two lines of code you could write to ask the user to do it and to input the value into your program?
+
+int number;
+cout << "Please enter an integer!\n";
+cin >> number;
+
+4. What is \n called and what purpose does it serve?
+A \n is a new line character that introduces a new line in your program.
+
+5. What terminates input into a string?
+Strings of characters
+
+6. What terminates input into an integer?
+Integers.
+
+7. How would you write
+
+cout << "Hello, ";
+cout << first_name;
+cout << "!\n";
+
+as a single line of code?
+
+cout << "Hello, " << first_name << "!\n";
+
+8. What is an object?
+An object is a region of memory with a type that specifies what kind of information can be placed in it.
+
+9. What is a literal?
+A literal is a fixed value that the program may not alter.
+
+10. What kinds of literals are there?
+-Integer literals
+-Boolean literals
+-Strings literals
+-Character literals
+
+11. What is a variable?
+A variable is a named object.
+
+12 - What are typical sizes for a char, an int, and a double?
+Char has a size of 1 byte (8bits)
+int has a size of 8 bytes (32 bits).
+double has a size of 8 bytes.
+
+13 - What measures do we use for the size of small entities in memory, such as ints and strings?
+Bits.
+
+14- What is the difference between = and ==?
+A single '=' is an assignment operator, whereas '==' is a comparing operator.
+
+15 - What is a definition?
+A definition is a unique specification of an object,variable, function, etc, such as defining a variable name my_number with type int.
+
+Ex:
+int my_number;
+
+16. What is an initialization and how does it differ from an assignment?
+Initialization is the same as attributing a variable its initial value, such as:
+int number = 0;
+Assignment is simply attributing to a variable a new value.
+
+17. What is string concatenation and how do you make it work in C++?
+String concatenation is to add two, or more string variables together.
+In C++ we concatenate two strings using the following program:
+
+string name = "I am Pedro";
+string age = "and I have 24 years old.";
+
+cout << name + age << "\n";
+
+22. Why can conversion from double to int be a bad thing?
+Because if we have a double such as 2.6 and convert into int we loose data as that conversion will attribute the integer a value of 2 and 0.6 will be lost.
+
+23. Define a rule to help decide if a conversion from one type to another is safe or unsafe.
+Using a list based notation "{}" on initializing a variable.
+
+
+

@@ -1,0 +1,36 @@
+What is a copmputation?
+A computation is a program that takes inputs and produces some output.
+
+What do you mean by inputs and outputs to a computation? Give examples.
+Inputs are any form of information that the program or function takes as a parameter to produce some output. Examples: Keyboard, mic, video recorders, MIDI's.
+Output is the result of processed information and that its sent out to a screen or other forms of visualization, such as paper, using a printer.
+
+What are the three requirements a programmer should keep in mind when expressing computations?
+-Correctness
+-Make programmes simple enough, but no simpler.
+-Efficiency.
+
+What does an expression do?
+An expression computes a value from a number of operands. The simplest expression is simply a literal value, such as: 'a', 10, "Pedro".
+
+What is the difference between a statement and an expression, as described in this chapter?
+An expression statement is simply an expression followed by a semicolon.
+For example:
+int a = 32;
+
+What is an lvalue? List the operators that require an lvalue. Why do these operators, and not the others, require an lvalue?
+An lvalue is an object that occupies some identifiable location in memory. Such as int a = 3; and never 3 = a;
+
+What is a constant expression?
+A constant expression is an invariable literal at compile time and if asked to be changed at run time an error is thrown.
+
+What is a literal?
+A literal is a constant that the program may not alter during compile time. Literals have different data types: booleans, integers, doubles, character, string.
+
+What is a symbolic constant? Why do we use them?
+We use a symbolic constant when we use the variable to represent a constant. Such as circle_area = PI*r^2 , instead of using  circle_area = 3.14*r^2. Note that the variable is represented in capital letters.
+
+What is a magic constant? Give examples:
+A magic constant is the opposite of symbolic constant. We use a constant number, being harder to track down what does that number represents.
+
+
